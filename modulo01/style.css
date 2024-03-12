@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(91, 91, 128);
+    color: white;
+    font: normal 25pt arial;
+}
+h1{
+    color: rgb(253, 105, 52);
+}
